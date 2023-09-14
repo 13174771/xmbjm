@@ -146,14 +146,14 @@
     },
     {
       "name": "🏡熊猫丨潇洒",
-      “网址”：“https://la.kstore.space/download/2863/01.txt”
-    } ,
+      "url": "https://la.kstore.space/download/2863/01.txt"
+    },
     {
-      "name" : "✨熊猫丨专业" ,
-      “网址”：“https://codeberg.org/jgfx/TVBox2/raw/branch/master/Json/jgpro.json”
-    } ,
+      "name": "✨熊猫丨精简",
+      "url": "https://codeberg.org/jgfx/TVBox2/raw/branch/master/Json/jgpro.json"
+    },
     {
-      "name" : "☁熊猫丨云星" ,
+      "name": "☁熊猫丨云星",
       "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8"
     },
     {
