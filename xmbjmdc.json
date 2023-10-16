@@ -2,7 +2,7 @@
   "urls": [
     {
       "name": "🐼熊猫不叫猫🐼",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjm.json"
+      "url": "https://raw.gitmirror.com/xmbjm/shiguang/main/shiguangdx.json"
     },
     {
       "name": "🐼熊猫丨拾光趣乐屋🐼",
@@ -10,6 +10,10 @@
     },
     {
       "name": "🐼熊猫丨荷城茶秀🐼",
+      "url": "http://rihou.vip:88/荷城茶秀"
+    },
+    {
+      "name": "🐼熊猫丨荷城茶秀备用🐼",
       "url": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json"
     },
     {
@@ -66,7 +70,7 @@
     },
     {
       "name": "🐼熊猫丨码上放生🐼",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/tvbox/main/master_stable_github.json"
+      "url": "https://www.bestpvp.site/关注码上放生/时光机"
     },
     {
       "name": "🐼熊猫丨饭佬备份🐼",
@@ -143,6 +147,10 @@
     {
       "name": "🐼熊猫丨ABC🐼",
       "url": "https://agit.ai/n/b/raw/branch/a/b/c.json"
+    },
+    {
+      "name": "🐼熊猫丨神仙心动提供🐼",
+      "url": "https://jihulab.com/shenxianyingshi/sxys/-/raw/main/sx.json"
     },
     {
       "name": "🐼熊猫丨不良帅🐼",
