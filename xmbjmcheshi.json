@@ -39,15 +39,15 @@
 			"key": "drpy_js_腾云驾雾",
 			"name": "🐼时光| 腾讯 ",
 			“类型”：3，
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/腾云.js"
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/js/腾云.js"
 		},
   {
 			"key": "drpy_js_奇珍异​​兽",
 			"name": "🐼时光| 爱奇艺 ",
 			“类型”：3，
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/奇珍.js"
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/js/奇珍.js"
 		},
         {"key":"csp_77","name":"🐼时光┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
             {
