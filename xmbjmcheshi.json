@@ -36,20 +36,6 @@
             "filterable": 1,
             "ext": "./lib/农民影视.json"
         },
- {
-      "key": "drpy_js_腾云驾雾",
-      "name": "🐼时光| 腾讯 ",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾云.js"
-    },
-    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "🐼时光| 爱奇艺 ",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇珍.js"
-    },
             {
       "key": "Lezhu",
       "name": "🐼时光┃乐猪",
