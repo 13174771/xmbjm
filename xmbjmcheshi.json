@@ -27,7 +27,7 @@
         },
         {"key":"csp_77","name":"🐼时光┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {
-            "key": "csp_Nmys",
+            "key": "csp_农民",
             "name": "🐼时光|农民备用",
             "type": 3,
             "api": "csp_XBPQ",
@@ -1409,9 +1409,14 @@
         }],
 
 "parses": [
-{"name":"智能解析","type":2,"url": "Sequence"},
+    {
+      "name": "超级并发",
+      "type": 3,
+      "url": "Demo"
+    },
 {"name":"超级解析","type":3,"url":"Demo"},
-{"name":"超级嗅探","type":3,"url":"Web"},	
+{"name":"超级嗅探","type":3,"url":"Web"},
+{"name":"智能解析","type":2,"url": "Sequence"},	
 
          {
             "name": "YuMi🥭解析",
