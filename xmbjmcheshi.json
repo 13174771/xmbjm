@@ -27,7 +27,7 @@
         },
         {"key":"csp_77","name":"🐼时光┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {
-            "key": "csp_农民",
+            "key": "csp_Nmys",
             "name": "🐼时光|农民备用",
             "type": 3,
             "api": "csp_XBPQ",
@@ -46,6 +46,20 @@
       "searchable": 1,
       "ext": "./lib/乐猪.json",
       "jar": "./lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+    },
+  {
+      "key": "drpy_js_腾云驾雾",
+      "name": "🐼熊猫| 腾讯 ",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/腾云.js"
+    },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "🐼熊猫| 爱奇艺 ",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/奇珍.js"
     },
     {
       "key": "csp_XBPQ_haoxi",
@@ -1411,6 +1425,93 @@
                 ]
             }
         },
+ {
+      "name": "官解1",
+      "type": 1,
+      "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/3.12.0"
+        }
+      }
+    },
+    {
+      "name": "官解2",
+      "type": 1,
+      "url": "https://jf.lemiaoyun.cn/api/?key=7acedca2cbff57e235d4b62143e2b68c&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "官解3",
+      "type": 1,
+      "url": "https://jf.lemiaoyun.cn/api/?key=d1272efce39e263c887687dca2fcaf60&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
         {
             "name": "时光解析",
             "type": 1,
