@@ -1,5 +1,6 @@
 ﻿{
 "spider": "./xmbjm.jar",
+"spider": "./xmbjm2.jar",
 "lives": [{"name": "live","type": 0,"url":"https://pastebin.com/raw/r3rwVPbb","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 
 "sites":[
@@ -1417,19 +1418,6 @@
 {"name":"超级解析","type":3,"url":"Demo"},
 {"name":"超级嗅探","type":3,"url":"Web"},
 {"name":"智能解析","type":2,"url": "Sequence"},	
-
-         {
-            "name": "YuMi🥭解析",
-            "type": 1,
-            "url": "https://jxjson.cf/json.php?url=",
-            "ext": {
-                "flag": [
-                    "qiqi-",
-                    "YuMi",
-                    "YuMi-vip"
-                ]
-            }
-        },
  {
       "name": "官解1",
       "type": 1,
@@ -3890,6 +3878,18 @@
         ]
       }
     },
+         {
+            "name": "YuMi🥭解析",
+            "type": 1,
+            "url": "https://jxjson.cf/json.php?url=",
+            "ext": {
+                "flag": [
+                    "qiqi-",
+                    "YuMi",
+                    "YuMi-vip"
+                ]
+            }
+        },
 {"name":"嗅探4","type":0,"url":"https://jxdp.codermart.net/?url="},
 {"name":"嗅探全民","url":"http://api.wpsseo.cn/?v=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","7-芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"菜妮丝","type":0,"url":"https://jx.cainisi.cf/?v="},
