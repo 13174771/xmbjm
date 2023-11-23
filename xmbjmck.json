@@ -1,7 +1,7 @@
 ﻿{
 "storeHouse": [
-{"sourceName":"熊猫不叫猫单仓","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"},
-{"sourceName":"熊猫不叫猫备用单仓","sourceUrl":"https://cn.kstore.space/download/4708/xmbjmdc.json"},
+{"sourceName":"熊猫不叫猫单仓","sourceUrl":"https://cn.kstore.space/download/4708/xmbjmdc.json"},
+{"sourceName":"熊猫不叫猫备用单仓","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"},
 {"sourceName":"千位数单仓","sourceUrl":"https://codeberg.org/xvnhs/zeroVPN/raw/branch/zcgdb/%E6%8E%A5%E5%8F%A3%E9%9B%86%E5%90%88.json"},
 {"sourceName":"奇奇单仓","sourceUrl":"https://cn.kstore.space/download/2904/123.txt"},
 {"sourceName":"欧歌单仓","sourceUrl":"http://tv.nxog.top/nxog/ou2.php?url=http://tv.nxog.top&b=欧歌"},
@@ -15,8 +15,8 @@
 {"sourceName":"心动车姐单仓","sourceUrl":"http://weixine.link:666"},
 {"sourceName":"壹号单仓","sourceUrl":"https://codeberg.org/hengxing/hx/raw/branch/main/1_myw2.txt"},
 {"sourceName":"贰号单仓","sourceUrl":"https://codeberg.org/hengxing/hx/raw/branch/main/myw5.txt"},
-{"sourceName":"多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
-{"sourceName":"多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
-{"sourceName":"多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/c.txt"},
-{"sourceName":"多多预备仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/d.txt"}
+{"sourceName":"多多优选仓","sourceUrl":"https://jihulab.com/iduoduo/apps/-/raw/main/a.txt"},
+{"sourceName":"多多公众仓","sourceUrl":"https://jihulab.com/iduoduo/apps/-/raw/main/b.txt"},
+{"sourceName":"多多聚合仓","sourceUrl":"https://jihulab.com/iduoduo/apps/-/raw/main/c.txt"},
+{"sourceName":"多多预备仓","sourceUrl":"https://jihulab.com/iduoduo/apps/-/raw/main/d.txt"}
 ]}
